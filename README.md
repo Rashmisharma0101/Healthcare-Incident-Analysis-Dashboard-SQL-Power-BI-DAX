@@ -46,15 +46,13 @@ The analysis focuses on identifying high-risk manufacturers, understanding incid
 - DAX measure creation and filter context handling
 - Business insight generation from raw data
 
-!Dashboard Preview(screenshots/Dashboardimage.png)
+![Dashboard Preview](Dashboardimage.png)
 
-Project Structure
-Medical_Device_Incident_Analysis/
-│
-├── Dashboard.pbix
-├── dataset.csv
-├── screenshots/
-└── README.md
+-- Project Structure
+  Medical_Device_Incident_Analysis/
+  Dashboard.pbix
+  dataset.csv
+  README.md
 
 -- Business Value
 
