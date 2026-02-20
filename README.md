@@ -37,6 +37,7 @@ The analysis focuses on identifying high-risk manufacturers, understanding incid
 - Incident trends show variation across years with identifiable peak periods
 - Malfunctions account for the majority of reported incidents
 - Incident distribution is uneven, with few manufacturers contributing disproportionately
+- Adverse events constituted a major proportion (45.71%) of total incidents, indicating critical safety concerns requiring focused monitoring.
 
 -- Skills Demonstrated
 
